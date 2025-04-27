@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+button{
+    background-color: rgb(7, 172, 7);
+    border-radius: 10px;
+    font-size: large;
+}
+.navbar-nav{
+
+    position: absolute;
+    right: 12%;
+}
+.pic{
+  padding-left: 90%;
+  padding-top: 10px;
+  
+}
+.main{
+    display: flex;
+    padding-top:20px ;
+    padding-left: 80px;
+}
+h3{
+    color: rgb(33, 231, 33);
+}
+h2{
+    text-align: center;
+}
+.pag{
+    text-align: center;
+}
+
+.Secondary{
+    position: absolute;
+    left: 8%;
+}
+.end{ 
+    height: 100px;
+    width: 100px ;
+    position: absolute;
+    top: 288%;
+    text-align: center;
+    align-items: center;
+    padding-left: 90px;
+}
+
